@@ -1,0 +1,28 @@
+*{
+    color: white;
+   text-align: center;
+    
+}
+body    {
+    background-color: black;
+
+}
+@font-face{
+    font-family: themillon;
+    src: url(../titulo.otf);
+}
+.set1{
+text-align: center;
+    background-image: url(../img/fondo1.jpg);
+   
+    background-size: 100%;
+    -webkit-text-stroke: 0.5px black;
+    
+}
+h1{
+    font-family: themillon;
+    src: url(../titulo.otf);
+}
+a{
+    
+}
